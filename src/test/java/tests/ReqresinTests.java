@@ -14,7 +14,7 @@ public class ReqresinTests {
     void successfulRegister() {
 
         User user = new User();
-        user.setEmail("eve.holt@reqres.in");
+        user.setEmail("eve.holt@reqres.inю");
         user.setPassword("pistol");
 
         User response = given()
@@ -37,7 +37,7 @@ public class ReqresinTests {
         User response = given()
                 .spec(request)
                 .when()
-                .get("/users?page=2")
+                .get("/users?page=2ю")
                 .then()
                 .spec(responseSpec200)
                 .log().body()
