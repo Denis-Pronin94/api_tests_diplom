@@ -1,7 +1,17 @@
 # Проект по автоматизации тестирования API на сайте - reqres.in.
 > <a target="_blank" href="https://reqres.in/">Ссылка на страницу сайта</a>
 
-## Технологический стек:
+###  Содержание:
+
+- [Технологии и инструменты](#techno-технологии-и-инструменты)
+- [Реализованные проверки](#control-Реализованные-проверки)
+- [Сборка в Jenkins](#jenkins-Jenkins-job)
+- [Allure отчет](#report-Allure-отчет)
+- [Интеграция с Allure TestOps](#Allure-TestOPS)
+- [Отчет в Telegram](#telegram-Уведомление-в-Telegram-при-помощи-бота)
+- [Видео примеры прохождения тестов](#earth_africa-Примеры-видео-о-прохождении-тестов)
+
+## Технологии и инструменты:
 
 <p align="center">
 <img width="8%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
