@@ -4,6 +4,7 @@
 ###  Содержание:
 
 - [Технологии и инструменты](#techno-технологии-и-инструменты)
+- [Запуск из терминала](#arrow_forward-запуск-из-терминала)
 - [Сборка в Jenkins](#jenkins-Jenkins-job)
 - [Allure отчет](#report-Allure-отчет)
 - [Интеграция с Allure TestOps](#Allure-TestOPS)
