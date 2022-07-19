@@ -31,13 +31,29 @@ gradle clean test
   <img src="images/screens/Jenkins.png" alt="job" width="900">
 </p>
 
-
 <a name="report-Allure-отчет"></a>
-## <img width="3%" title="Jenkins" src="images/logo/Allure_Report.svg"> Отчёт [Allure Reports](https://jenkins.autotests.cloud/job/mobile_tests_diplom/2/allure/)
+## <img width="3%" title="Jenkins" src="images/logo/Allure_Report.svg"> Отчёт [Allure Reports](https://jenkins.autotests.cloud/job/api_tests_diplom/5/allure/)
 <p align="center">
   <img src="images/screens/AllureReport.png" alt="job" width="900">
 </p>
 
 <p align="center">
   <img src="images/screens/AllureReport2.png" alt="job" width="900">
+</p>
+
+<a name="Allure-TestOPS"></a>
+### <img width="4%" title="Allure TestOPS" src="images/logo/AllureTestOps.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/14588)
+<p align="center">
+  <img src="images/screens/AllureTestOps.png" alt="job" width="800">
+</p>
+
+<p align="center">
+  <img src="images/screens/AllureTestOps2.png" alt="job" width="800">
+</p>
+
+<a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
+### <img width="6%" title="Jenkins" src="images/logo/Telegram.svg"> Отчет в Telegram
+
+<p align="center">
+  <img src="images/screens/telegram.png" alt="job" width="600">
 </p>
