@@ -53,7 +53,7 @@ public class ReqresinTests {
     void missingRegisterUserTest() {
 
         User user = new User();
-        user.setEmail("sydney@fife");
+        user.setEmail("sydney@fifeю");
 
         User response = given()
                 .spec(request)
